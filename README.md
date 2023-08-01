@@ -10,3 +10,4 @@ https://github.com/CarlMurray/garduino/assets/12576409/0962c2bb-2e7e-4275-97cc-f
 
 ![new doc 2019-03-08 00 46 28_1](https://github.com/CarlMurray/garduino/assets/12576409/3f1a07ff-eca0-42fc-9d59-01becdb45dd7)
 ![Screenshot 2023-08-01 at 20 46 10](https://github.com/CarlMurray/garduino/assets/12576409/1f9bc103-0ccd-4df0-89a3-f731f7a68dcf)
+![Fritzing Schematic_bb](https://github.com/CarlMurray/garduino/assets/12576409/f1dbb1d7-305a-405a-9864-595809dad95f)
